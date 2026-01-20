@@ -3,7 +3,7 @@
 
 ---
 
-**Запуск под linux
+**Запуск под linux**
 ```bash
 chmod +x ./build.sh
 ./build.sh
